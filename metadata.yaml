@@ -1,11 +1,16 @@
 _repo: An-outlaw-s-pledge-or-The-raid-on-the-old-stockade_69119
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69119-h/images/cover.jpg
 creator:
   author:
     agent_name: Dair, Col. Spencer
     gutenberg_agent_id: '55119'
     url: http://www.gutenberg.org/2009/agents/55119
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69119#An-outlaw-s-pledge-or-The-raid-on-the-old-stockade
 gutenberg_issued: '2022-10-09'
 identifiers:
   gutenberg: '69119'
